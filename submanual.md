@@ -1,1 +1,2 @@
 #terminalから作成
+#update_submanualから更新
