@@ -1,2 +1,2 @@
 # OfficeWorkManual2
-terminalから変更
+githubから変更
